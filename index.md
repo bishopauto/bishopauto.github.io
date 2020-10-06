@@ -1,4 +1,4 @@
-## Welcome to CHALDEAN Human Security Center!
+## Welcome to CHALDEAN Human Intelligence Security Center!
 
 You can use the [editor on GitHub](https://github.com/bishopauto/bishopauto.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
